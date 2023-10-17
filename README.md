@@ -33,20 +33,25 @@ libraries.
 
 6. Implement a basic N-gram model for text generation. For example, generate text using a bigram
 model using python.
+![image](https://github.com/vyshnaviK18/DSA0303/assets/113926615/620c269d-f875-49b5-a013-a51fa6e9cee9)
 
 
 7. Write program using the NLTK library to perform part-of-speech tagging on a text.
+![image](https://github.com/vyshnaviK18/DSA0303/assets/113926615/75d9c1cd-fffc-499b-867f-7643a7c2b8ff)
 
   
 8. Implement a simple stochastic part-of-speech tagging algorithm using a basic probabilistic model
 to assign POS tags using python.
+![image](https://github.com/vyshnaviK18/DSA0303/assets/113926615/eba631cc-3b5e-485a-9bc4-1c8a26bd1179)
 
 
 9. Implement a rule-based part-of-speech tagging system using regular expressions using python.
+![image](https://github.com/vyshnaviK18/DSA0303/assets/113926615/07e4362f-9283-4592-9f5f-fc41807248fc)
 
   
 10. Implement transformation-based tagging using a set of transformation rules, apply a simple rule
 to tag words using python.
+![image](https://github.com/vyshnaviK18/DSA0303/assets/113926615/f2334b44-aec3-42f0-bc90-344193541fb6)
 
 
 11. Implement a simple top-down parser for context-free grammars using python.
