@@ -55,14 +55,18 @@ to tag words using python.
 
 
 11. Implement a simple top-down parser for context-free grammars using python.
+![image](https://github.com/vyshnaviK18/DSA0303/assets/113926615/47ccb33c-eed6-4656-9f09-9f7e46052440)
 
     
 12. Implement an Earley parser for context-free grammars using a simple python program.
+![image](https://github.com/vyshnaviK18/DSA0303/assets/113926615/ce5f8fa2-ea64-4bab-a264-853090ccf9b2)
 
 13. Generate a parse tree for a given sentence using a context-free grammar using python program.
+![image](https://github.com/vyshnaviK18/DSA0303/assets/113926615/9fefd3ec-8568-4b87-a1b7-550cb82d8fad)
 
 14. Create a program in python to check for agreement in sentences based on a context-free
 grammar's rules.
+![image](https://github.com/vyshnaviK18/DSA0303/assets/113926615/db760cab-1e4a-435c-b53a-bb98ba8da41e)
 
 15.Implement probabilistic context-free grammar parsing for a sentence using python.
 
